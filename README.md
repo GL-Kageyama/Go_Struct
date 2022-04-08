@@ -1,7 +1,8 @@
 # Go Struct
 
 ## Struct
-
+Struct is a grouping of multiple arbitrary types into a single element.  
+Various data structures can be treated as a single "type".  
 
 ## Code
 ```Go
